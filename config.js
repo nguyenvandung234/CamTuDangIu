@@ -1,10 +1,6 @@
 const CONFIG = {
     introTitle: 'Tíu ơi!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương
-    Mắc cười hong `,
+    introDesc: `Anh hỏi em cái này nha `,
     btnIntro: 'Bé ơi',
     title: 'Bé ơi bé có yêu anh nhìu hong 😙',
     desc: 'Phải nói thiệt nhe ',
