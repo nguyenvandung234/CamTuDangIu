@@ -12,8 +12,8 @@ const CONFIG = {
     btnNo: 'Không, hết iu rui ',
     question:'Trên thế giới có 1 lon người mà sao em lại yêu anh dạ ',
     btnReply: 'Gửi cho chồng péo ',
-    reply: 'Tại vì anh đẹp trai hơn emmmm ',
+    reply: 'Tại vì anh đẹp trai lém ',
     mess: 'Anh biết mà 🥰. Yêu Tú nhiềuuuuuuuu 😘😘 ',
     messDesc: 'Em đừng giận anh nữa nha cục cưng.',
-    btnAccept: 'Hết giận nhe. Mặc dù hơi sến mà thui đừng giận anh nữa nhe ',
+    btnAccept: 'Hết giận nhe. Mặc dù hơi sến mà thui đừng giận anh nữa nhe mốt hết dịch chở đi ăn bánh gạo 79ka ',
 }
